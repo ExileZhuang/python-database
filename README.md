@@ -5,10 +5,10 @@
 ### 开发语言
 [python](https://www.python.org) 3.11
 ### 相关库
-[PyQt5](https://www.riverbankcomputing.com/static/Docs/PyQt5/)
+[PyQt5](https://www.riverbankcomputing.com/static/Docs/PyQt5)  
 [pymysql](https://github.com/PyMySQL/PyMySQL)
 ### 其他
 View视图层：PyQt5 GUI
-数据库：MySQL
+数据库：MySQL  
 ### 贡献者
 [ExileZhuang](https://github.com/ExileZhuang)

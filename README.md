@@ -9,6 +9,6 @@
 [pymysql](https://github.com/PyMySQL/PyMySQL)
 ### 其他
 View视图层：PyQt5 GUI  
-数据库：MySQL  
+数据库：[MySQL](https://www.mysql.com/cn/)  
 ### 贡献者
 [ExileZhuang](https://github.com/ExileZhuang)
